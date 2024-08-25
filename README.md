@@ -17,3 +17,6 @@ The dataset collected from public available database.
 
 The project used multiple Machine learning models. Logistic Rgression, Decision Tree, Random Forest, Suport Vector Machine and Ada Boost
 
+## Evaluation
+
+The covid classification evaluation preferencing precision, which consider the quality of positive predictions truely mark the performance of model. The logistice model giving **92%** precision.
